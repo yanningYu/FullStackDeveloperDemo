@@ -1,0 +1,9 @@
+C:\Demo\assements\HumanResource\HumanResource\bin\Debug\netcoreapp3.1\HumanResource.deps.json
+C:\Demo\assements\HumanResource\HumanResource\bin\Debug\netcoreapp3.1\HumanResource.dll
+C:\Demo\assements\HumanResource\HumanResource\bin\Debug\netcoreapp3.1\HumanResource.pdb
+C:\Demo\assements\HumanResource\HumanResource\obj\Debug\netcoreapp3.1\HumanResource.csprojAssemblyReference.cache
+C:\Demo\assements\HumanResource\HumanResource\obj\Debug\netcoreapp3.1\HumanResource.AssemblyInfoInputs.cache
+C:\Demo\assements\HumanResource\HumanResource\obj\Debug\netcoreapp3.1\HumanResource.AssemblyInfo.cs
+C:\Demo\assements\HumanResource\HumanResource\obj\Debug\netcoreapp3.1\HumanResource.csproj.CoreCompileInputs.cache
+C:\Demo\assements\HumanResource\HumanResource\obj\Debug\netcoreapp3.1\HumanResource.dll
+C:\Demo\assements\HumanResource\HumanResource\obj\Debug\netcoreapp3.1\HumanResource.pdb

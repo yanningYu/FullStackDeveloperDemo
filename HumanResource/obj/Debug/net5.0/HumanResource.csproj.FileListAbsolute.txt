@@ -1,0 +1,5 @@
+C:\Demo\assements\HumanResource\HumanResource\obj\Debug\net5.0\HumanResource.csprojAssemblyReference.cache
+C:\Demo\assements\HumanResource\HumanResource\obj\Debug\net5.0\HumanResource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\assements\HumanResource\HumanResource\obj\Debug\net5.0\HumanResource.AssemblyInfoInputs.cache
+C:\Demo\assements\HumanResource\HumanResource\obj\Debug\net5.0\HumanResource.AssemblyInfo.cs
+C:\Demo\assements\HumanResource\HumanResource\obj\Debug\net5.0\HumanResource.csproj.CoreCompileInputs.cache

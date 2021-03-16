@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HumanResource", "HumanResource\HumanResource.csproj", "{97B6246A-BA42-45F8-835C-8C165C91A70F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanResource.Tests", "HumanResource.Tests\HumanResource.Tests.csproj", "{24B60C8D-4895-4A3D-A241-5801DEB64E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97B6246A-BA42-45F8-835C-8C165C91A70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B6246A-BA42-45F8-835C-8C165C91A70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B6246A-BA42-45F8-835C-8C165C91A70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B6246A-BA42-45F8-835C-8C165C91A70F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B60C8D-4895-4A3D-A241-5801DEB64E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B60C8D-4895-4A3D-A241-5801DEB64E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B60C8D-4895-4A3D-A241-5801DEB64E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B60C8D-4895-4A3D-A241-5801DEB64E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34B65332-8FF9-4589-9471-04E7DAF7DA7D}
+	EndGlobalSection
+EndGlobal
